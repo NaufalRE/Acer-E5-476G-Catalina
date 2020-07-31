@@ -1,4 +1,4 @@
-# Acer-E5-476G-Catalina
+# Acer-E5-476G-Catalina OPEN CORE ONLY
 CPU : Intel Core i5-8250u
 GPU : Nvidia MX130
 Wifi : Intel Wifi AX200
